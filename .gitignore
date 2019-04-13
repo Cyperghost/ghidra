@@ -62,5 +62,5 @@ Release
 # Ignore eclipse project files
 .project
 .classpath
-.ghidra.iml
+ghidra.iml
 lib/
